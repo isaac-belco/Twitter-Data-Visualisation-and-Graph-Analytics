@@ -336,7 +336,7 @@ Moreover, by placing the mouse pointer on a bubble we get the information associ
 >* The general feeling of the bubble
 >![bubble](src/images/bubble.png)
 
->**One last thing:** it is important to know that the dashboard works in real >time. So at **each selection** it takes approximately **6 seconds** to get the >data from our scraping module [scraper.py](models/scraper.py) and generate the plots. Time taken is associated with the scraping process. To launch the dashboard, simply run the following command
+>**One last thing:** it is important to know that the dashboard works in real time. So at **each selection** it takes approximately **6 seconds** to get the data from our scraping module [scraper.py](models/scraper.py) and generate the plots. Time taken is associated with the scraping process. To launch the dashboard, simply run the following command
 
 ```bash
 bokeh serve --show bokeh_dviz.py
