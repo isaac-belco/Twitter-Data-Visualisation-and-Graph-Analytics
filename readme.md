@@ -1,13 +1,4 @@
 
-```
----
-title: Twitter Data Visualisation  and Graph Analytics Project
-author: 
-    - Isaac BELCO
-    - Jean Christian Désiré BAZIE
-date: 2022-02-02
----
-```
 # Twitter Data Visualisation  and Graph Analytics
 ![img hadood](https://www.myapps.bo/portal/wp-content/uploads/2019/06/diagram4-x-750-328x-.jpg)
 
