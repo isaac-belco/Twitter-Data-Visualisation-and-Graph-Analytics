@@ -12,6 +12,8 @@ The description of this part is in the notebook [graph_analytics.ipynb](notebook
 In order to be able to follow our project and test it we invite you to install the necessary libraries mentioned in the file [requirements.txt](requirements.txt).To do so, you just have to run the following command.
 
 ```bash
+git clone --depth=1 https://github.com/isaac-bix/Twitter-Data-Visualisation-and-Graph-Analytics.git
+cd Twitter-Data-Visualisation-and-Graph-Analytics
 pip3 install . -r requirements.txt
 ```
 
