@@ -312,7 +312,7 @@ def get_tweet_sentiment(tweet:str):
 ## Hands-on experience 
 
 Now we come to the most fun part of this document: the handling of our dashboard, which looks like this 
-![dashboard](src/images/dashboard.png)
+![dashboard](src/images/dashboard.PNG)
 
 We have basically two drop-down menus that allow us to manipulate the dashboard. From right to left (**1** and **2**).
 
